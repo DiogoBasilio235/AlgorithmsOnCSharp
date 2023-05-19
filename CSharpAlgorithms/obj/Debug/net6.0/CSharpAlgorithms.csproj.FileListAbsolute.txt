@@ -1,0 +1,15 @@
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net6.0\CSharpAlgorithms.exe
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net6.0\CSharpAlgorithms.deps.json
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net6.0\CSharpAlgorithms.runtimeconfig.json
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net6.0\CSharpAlgorithms.dll
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net6.0\CSharpAlgorithms.pdb
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.csproj.AssemblyReference.cache
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.AssemblyInfoInputs.cache
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.AssemblyInfo.cs
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.dll
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\refint\CSharpAlgorithms.dll
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.pdb
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\CSharpAlgorithms.genruntimeconfig.cache
+C:\Users\salgado\source\repos\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net6.0\ref\CSharpAlgorithms.dll
