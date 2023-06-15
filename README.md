@@ -1,4 +1,4 @@
-# Algorithms On C Sharp 
+# Algorithms On C# 
 - Improve your C# applications with efficient algorithms
   
 Completion of courses by Kathryn Hodge available on LinkedIn Learning (https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms)
